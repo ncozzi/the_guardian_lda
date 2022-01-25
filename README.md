@@ -3,7 +3,7 @@
 - *Data mining for reddit* (datamining_reddit): project done for a social sciences Stats class <br/>
 Involves mining posts from subreddits, and doing basic NLP prediction using generic tuned models
 
-- *Mapping mean precipitations* (geopandas_precip): using geopandas for plotting mean monthly temperatures, from 1990 to 2021  <br/>
+- *Mapping world precipitations* (geopandas_precip): using geopandas for plotting monthly mean temperatures, from 1990 to 2021, across the globe  <br/>
 Involves processing gridded N-dimensional (latitude x longitude x time) datafiles, data manipulation, and geopandas plotting
 
 
