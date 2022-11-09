@@ -7,4 +7,5 @@ Involves mining posts from subreddits, and doing basic, exploratory NLP predicti
 
 - *Predicting GDP growth with World Bank data* (wb_gdp_predict): in this project, WB data is pulled via the website's API, then Machine Learning models are created for GDP prediction (one-year-forward), after the respective data wrangling/cleaning, outlier detection, etcetera; a proper approach is considered for longitudinal data
 
+- *Testing LDA for topic modeling in The Guardian sports news* (the_guardian_lda.ipynb): testing the stability of Latent Dirichlet Allocation for topic modeling, applied to The Guardian sports news from Q1 and Q2 2022
 
